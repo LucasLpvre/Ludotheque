@@ -1,0 +1,41 @@
+/* Menu */
+
+.bg-custom{
+    background-color: #dcdee3;
+}
+
+nav{
+    margin-bottom: 60px;
+}
+/* Page d'acceuil */
+
+.nom{
+    width: 100vw;
+    font-size: 8vh;
+    font-weight: bold;
+    color: #002b36;
+    text-align: center;
+    margin-top: 15%;
+}
+
+.bienvenue{
+    width: 100vw;
+    font-size: 2.5vh;
+    color: #082756;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+}
